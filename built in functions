@@ -1,0 +1,8 @@
+a=(103,675,321,782,200)
+print(max(a))
+b=[103,675,321]
+print(min(b))
+x=[1,2,3,4,5]
+y=[3,4,5,6,7]
+intersection1=set(x).intersection(y)
+print(intersection1)
