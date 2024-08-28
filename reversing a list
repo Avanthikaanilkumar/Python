@@ -1,0 +1,3 @@
+primenumbers=[2,3,5,7]
+primenumbers.reverse()
+print('Reversed List:',primenumbers)
